@@ -20,6 +20,7 @@ from zhaquirks.const import (
     OUTPUT_CLUSTERS,
     PROFILE_ID,
     SHORT_PRESS,
+    TURN_OFF,
     TURN_ON,
 )
 
